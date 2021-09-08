@@ -6,9 +6,15 @@ A learning path to go from zero to making a real time operating system (RTOS) in
   * https://github.com/rust-lang/rustlings/
   * https://doc.rust-lang.org/stable/rust-by-example/
 * Learn about OS
+  * https://www.edx.org/course/computer-hardware-and-operating-systems
+  * https://www.udacity.com/course/introduction-to-operating-systems--ud923
   * Operating Systems: Three Easy Pieces
+* Computer Architecture
+  * https://www.coursera.org/learn/comparch
 * Learn C (This might need to be done before learning about general OS)
   * C 17 book
+  * https://www.learn-c.org/
+  * https://learncodethehardway.org/c/
 * Learn about RTOS
 * Learn about RISC-V
 * Learn about Embeded Rust 
